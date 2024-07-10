@@ -176,9 +176,9 @@ justify-content: space-between;
     justify-content: right;
     padding-top: 50px;
 }
-.text-footer{
-    
+.logo-text{
     justify-content: left;
     justify-items: left;
     text-align: left;
+    display: flex;
 }

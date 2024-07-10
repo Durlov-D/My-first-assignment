@@ -67,7 +67,12 @@ justify-content: space-between;
     width: 80%;
     margin: 0 auto;
     text-align: center;
-    padding-bottom: 80px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.inspiration-text{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .iframe{
     width: 100%;
@@ -114,6 +119,7 @@ justify-content: space-between;
     border: none;
     color: white;
     background-color: #0D1321;
+    margin-bottom: 50px;
 }
 .second-card-container{
     background-color: blanchedalmond;
@@ -134,8 +140,20 @@ justify-content: space-between;
     
 }
 .footer-container{
-    padding-top: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 
-    
+}
+.footer-text{
+    align-items: center;
+    text-align: center;
+    font-size:25px ;
+    justify-items: center;
+
+}
+.footer-main-container{
+    justify-items: center;
+    align-items: center;
 }
 

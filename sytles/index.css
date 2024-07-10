@@ -145,15 +145,40 @@ justify-content: space-between;
     align-items: center;
 
 }
+.footer-main-container{
+    justify-items: center;
+    align-items: center;
+}
 .footer-text{
     align-items: center;
     text-align: center;
     font-size:25px ;
     justify-items: center;
-
+    line-height: 38px;
+      
+    }
+.image-assign{
+    justify-content: center;
+    padding-top: 40px;
+    display: flex;
+    width: 950p;
+    height: 350px;
+    position: relative;
 }
-.footer-main-container{
-    justify-items: center;
+.text-area-title{
+    display: flex;
     align-items: center;
+    justify-content: center;
+    justify-items: center;
 }
-
+.logo-container{
+    display: flex;
+    justify-content: right;
+    padding-top: 50px;
+}
+.text-footer{
+    
+    justify-content: left;
+    justify-items: left;
+    text-align: left;
+}

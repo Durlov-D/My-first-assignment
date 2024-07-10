@@ -67,10 +67,75 @@ justify-content: space-between;
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    padding-bottom: 80px;
 }
 .iframe{
     width: 100%;
     height: 800px;
 }
+/* card container */
+.message-and-card-container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+   display: flex;
+   background-color:#FFF;
+   justify-content: space-between;
+} 
+.text-container{
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+   
+}
+.first-card-container{
+    background-color: blanchedalmond;
+    gap: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.border-container{
+    border: none;
+    color: white;
+    background-color: #0D1321;
+}
+.border-container2{
+    border: none;
+    color: white;
+    background-color: #0D1321;
+}
+.border-container3{
+    border: none;
+    color: white;
+    background-color: #0D1321;
+}
+.second-card-container{
+    background-color: blanchedalmond;
+    gap: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.third-card-container{
+    background-color: blanchedalmond;
+    gap: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.footer-container{
+    padding-top: 50px;
 
+    
+}
 
